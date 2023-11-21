@@ -69,3 +69,15 @@ console.log(middleName1);
 let age = prompt("Введіть ваш вік");
 console.log(age);
 
+
+/////---Name---////
+
+let firstName = "Egor";
+let middleName = "Bucigen";
+let lastName = "Viktorovich";
+
+let result = firstName + middleName + lastName;
+console.log(result)
+
+let result2=`${firstName} - ${middleName} - ${lastName}`
+console.log(result2)
