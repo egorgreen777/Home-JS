@@ -58,3 +58,14 @@ let b = '100';
 console.log(typeof b);
 let c = true;
 console.log(typeof c);
+
+
+
+
+let firstName1 = prompt("Введіть ваше ім'я");
+console.log(firstName1);
+let middleName1 = prompt("Введіть ваше Прізвище");
+console.log(middleName1);
+let age = prompt("Введіть ваш вік");
+console.log(age);
+
